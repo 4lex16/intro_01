@@ -1,4 +1,5 @@
 You forgot to add a first line.
 Here is another file.
+You forgot to put a second line.
 You forgot to put a middle line.
 It is alse a wonderful file.
